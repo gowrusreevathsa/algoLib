@@ -1,0 +1,26 @@
+{
+  "name": "algolib",
+  "version": "1.0.0",
+  "description": "A collection of efficient algorithms",
+  "main": "index.js",
+  "author": "Gowru Sree Vathsa",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "algorithms", 
+    "data structures", 
+    "sorting", 
+    "searching", 
+    "graph"
+  ],
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowrusreevathsa/algoLib" 
+  },
+  "bugs": {
+    "url": "https://github.com/gowrusreevathsa/algoLib/issues"
+  },
+  "homepage": "https://github.com/gowrusreevathsa/algoLib#readme"
+}
